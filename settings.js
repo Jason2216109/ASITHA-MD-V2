@@ -4,7 +4,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID === undefined ? 'name: Node.js CI
+SESSION_ID: process.env.SESSION_ID === undefined ? '𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=Drw3XKra#YABYat7Wg0tXsWfMt0y4BquGG_hZQ5bI6rmfUzTg7jk: Node.js CI
 
 on:
   push:
